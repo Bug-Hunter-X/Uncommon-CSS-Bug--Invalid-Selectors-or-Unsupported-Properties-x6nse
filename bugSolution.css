@@ -1,0 +1,11 @@
+/* bugSolution.css */
+/* The bug is fixed here.  The specific solution will depend on the original error found in bug.css. */
+/* Example: Fixing an invalid selector */
+/* .invalid-selector { ... }  is changed to */
+.valid-selector { 
+  color: blue;
+}
+
+/* Example: Removing an unsupported property */
+/* element { -webkit-unsupported-property: value; } is changed to */
+ element { color: blue; }
